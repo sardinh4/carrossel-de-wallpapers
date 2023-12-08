@@ -13,6 +13,7 @@ JS
 
 index.html: Página principal 
 css/styles.css: Estilos CSS 
+js/script.js : Código em JS
 img/: Diretório contendo as imagens do site 
 README.md: Documentação com as informações sobre o projeto. 
 LICENSE: licença.
