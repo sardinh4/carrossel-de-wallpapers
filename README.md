@@ -26,4 +26,4 @@ https://youtu.be/McPdzhLRzCg
 
 🔗 Link da Demo da Página:
 
-https://sardinh4.github.io/Carrossel-de-Wallpapers/
+https://sardinh4.github.io/carrossel-de-wallpapers/
